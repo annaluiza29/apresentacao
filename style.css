@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300;400;500;600;700&family=Jacques+Francois+Shadow&family=Luckiest+Guy&display=swap');
+
+body{
+    background-color: #e0e8ef;
+    font-size: 20px;
+}
+
+#header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #3288ca;
+}
+
+h1{
+    font-family: 'Luckiest Guy';
+    color: #fff;
+}
+
+.main{
+    display: flex;
+    margin: 50px;
+    padding: 20px;
+    background-color: #fff;
+    justify-content: center;
+}
+
+img{
+    height: 400px;
+    width: 300px;
+    border-radius: 5%;
+}
+
+.text{
+    margin-left: 100px;
+}
+
+h2{
+    font-size: 30px;
+    padding-left: 100px;
+    font-family: 'Jacques Francois Shadow';
+    color: #325a68;
+}
+
+h3{
+    color: #11324c;
+    font-family: 'Cormorant Unicase';
+}
+
+h4{
+    color: #0a2031;
+}
+
+.description{
+    background-color: #fff;
+    justify-content: center;
+    text-align: center;
+    margin-left: 250px;
+    width: 70%;
+}
+
+a{
+    color: #000;
+}
